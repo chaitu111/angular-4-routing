@@ -18,7 +18,12 @@
 
 
 Explanation
+
 -> in folder src/   index.html contains the template header , footer and body section
+
 -> style.css contains the template styles
+
 -> src/app   i have created 4 components home,login,register,notfound
+
 -> routing code is written in app.module.ts
+
