@@ -23,7 +23,7 @@ Explanation
 
 -> style.css contains the template styles
 
--> src/app   i have created 4 components home,login,register,notfound
+-> in folder src/app   i have created 4 components i.e ( home,login,register,notfound )
 
 -> routing code is written in app.module.ts
 
