@@ -15,9 +15,9 @@
 
    # cd project_name
    
-5. To start the application in browser type in command prompt   
+5. And start the application in browser using command prompt   
 
    # ng serve -o
    
    
-6. Application will open the following url :  http://localhost:4200/
+6. Application will get opened in the following url :  http://localhost:4200/
