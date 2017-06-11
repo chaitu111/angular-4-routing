@@ -1,0 +1,23 @@
+
+Welcome to {{title}}!!
+
+<nav>
+<ul>
+
+    <li><a routerLink ="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" > Home  </a> </li>
+    <li><a routerLink ="/home" routerLinkActive="active"> <app-home> </app-home>  </a> </li>
+    <li><a routerLink ="/login" routerLinkActive="active"> <app-login> </app-login> </a> </li>
+    <li><a routerLink ="/register" routerLinkActive="active"><app-register> </app-register>  </a> </li>
+    <li><a routerLink ="/not-found" routerLinkActive="active"><app-not-found> </app-not-found> </a> </li>
+  
+</ul>
+</nav>
+
+
+
+<router-outlet></router-outlet>
+
+<footer>
+    <p>location url {{locationurl}} </p>
+    <p>Router url  {{routerurl}}   </p>
+</footer>
