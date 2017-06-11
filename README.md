@@ -11,6 +11,7 @@
     cmd : npm install -g @angular/cli
   
 4. Navigate to your project directory using command prompt   
+
    cmd : cd project_name
    
 5. To start the application 
