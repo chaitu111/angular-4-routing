@@ -13,5 +13,9 @@
 4. Navigate to your project directory using command prompt   
    cmd : cd project_name
    
-5. To start the application run cmd: ng serve -o
+5. To start the application 
+
+   cmd: ng serve -o
+   
+   
 6. Application will open the following url :  http://localhost:4200/
