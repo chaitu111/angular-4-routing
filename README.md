@@ -6,6 +6,7 @@
 
 3. Create a new angular project using command prompt         
   cmd : ng new project_name
+  
   cmd : npm install -g @angular/cli
   
 4. Navigate to your project directory using command prompt   
