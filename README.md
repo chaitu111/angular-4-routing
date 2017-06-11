@@ -2,8 +2,8 @@
 
 1. Install Latest version of NodeJs
 2. To check nodeJs version using command prompt 
-   
-     cmd : npm -v
+
+     cmd : npm -v
 
 3. Create a new angular project using command prompt         
    
